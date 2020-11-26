@@ -1,6 +1,3 @@
-# revertCharacter
-#Code below
-
 <?php
 $phrase =  'som@3e teADxt';
 function revertCharacter($arg)
