@@ -1,4 +1,4 @@
-
+```
 $phrase =  'som@3e teADxt';
 function revertCharacter($arg)
 {
@@ -9,4 +9,4 @@ echo('========');
 if (revertCharacter($phrase) == strrev($phrase)){
     echo ("if you see that message, unit test passed");
 }
-
+```
