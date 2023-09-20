@@ -1,5 +1,5 @@
 ```
-$phrase =  'som@3e text';
+$phrase =  'some text';
 function revertCharacter($arg)
 {
     return $x = strrev($arg);
